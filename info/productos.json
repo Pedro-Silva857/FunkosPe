@@ -1,0 +1,170 @@
+ [
+    {
+        "id":1,
+        "nombre": "Capitán America",
+        "precio": 1200,
+        "img": "capi.png"
+    },
+    {
+        "id":2,
+        "nombre": "Capitán America Anciano",
+        "precio": 1500,
+        "img": "CapiViejo.png"
+    },
+    {
+        "id":3,
+        "nombre": "Loki",
+        "precio": 900,
+        "img": "Loki.png"
+    },
+    {
+        "id":4,
+        "nombre": "Dr.Strange Supremo",
+        "precio": 900,
+        "img": "Dr, Strange.png"
+    },
+    {
+        "id":5,
+        "nombre": "Iron-Man",
+        "precio": 1000,
+        "img": "Iron.png"
+    },
+    {
+        "id":6,
+        "nombre": "Inosuke Hashibira",
+        "precio": 800,
+        "img": "Inuske.png"
+    },
+    {
+        "id":7,
+        "nombre": "Drax",
+        "precio": 600,
+        "img": "Drax.png"
+    },
+    {
+        "id":8,
+        "nombre": "Groot",
+        "precio": 1800,
+        "img": "Groot.png"
+    },
+    {
+        "id":9,
+        "nombre": "Omega",
+        "precio": 700,
+        "img": "Omega.png"
+    },
+    {
+        "id":10,
+        "nombre": "Zenitsu Agatsuma",
+        "precio": 1000,
+        "img": "Zenitsu.png"
+    },
+    {
+        "id":11,
+        "nombre": "Zombie Venom",
+        "precio": 2000,
+        "img": "Venom.png"
+    },
+    {
+        "id":12,
+        "nombre": "Venom",
+        "precio": 1300,
+        "img": "Venom Negro.png"
+    },
+    {
+        "id":13,
+        "nombre": "Giyu Tomioka",
+        "precio": 1800,
+        "img": "Tomioka.png"
+    },
+    {
+        "id":14,
+        "nombre": "Thor",
+        "precio": 700,
+        "img": "Thor.png"
+    },
+    {
+        "id":15,
+        "nombre": "Tanjiro Kamado en postura",
+        "precio": 2200,
+        "img": "TanjiroPostura.png"
+    },
+    {
+        "id":16,
+        "nombre": "Tanjiro Kamado",
+        "precio": 1100,
+        "img": "Tanjiro.png"
+    },
+    {
+        "id":17,
+        "nombre": "Sylvie",
+        "precio": 700,
+        "img": "Sylvie.png"
+    },
+    {
+        "id":18,
+        "nombre": "Spider-Man",
+        "precio": 800,
+        "img": "Spiderman.png"
+    },
+    {
+        "id":19,
+        "nombre": "Tanjiro Kamado",
+        "precio": 700,
+        "img": "Tanjiro comiendo.png"
+    },
+    {
+        "id":20,
+        "nombre": "Black Widow",
+        "precio": 1500,
+        "img": "Scarlet.png"
+    },
+    {
+        "id":21,
+        "nombre": "Sanemi Shinazugawa",
+        "precio": 1300,
+        "img": "Sanemi.png"
+    },
+    {
+        "id":22,
+        "nombre": "Kyojuro Rengoku",
+        "precio": 1600,
+        "img": "Rengoku.png"
+    },
+    {
+        "id":23,
+        "nombre": "Qui-Gon Jinn",
+        "precio": 1000,
+        "img": "Qui Gon.png"
+    },
+    {
+        "id":24,
+        "nombre": "Nezuko Kamado",
+        "precio": 1400,
+        "img": "Nezuko.png"
+    },
+    {
+        "id":25,
+        "nombre": "Mitsuri Kanroji",
+        "precio": 1200,
+        "img": "Mitsuri.png"
+    },
+    {
+        "id":26,
+        "nombre": "Loki Formal",
+        "precio": 1100,
+        "img": "Loki facha.png"
+    },
+    {
+        "id":27,
+        "nombre": "Princesa Leia",
+        "precio": 1400,
+        "img": "Leia.png"
+    },
+    {
+        "id":28,
+        "nombre": "Aang",
+        "precio": 1200,
+        "img": "Aang.png"
+    }
+]
